@@ -8,7 +8,7 @@ I've been learning to code for 2 years, and my most used and favorite languages 
 
 * 🌍  I'm based in Hyderabad, India
 * ✉️  You can contact me at [pranavbairy2@gmail.com](mailto:pranavbairy2@gmail.com)
-* 🚀  I'm currently working on [Attendance Portal](https://github.com/bp2881/Attendance_Portal)
+* 🚀  I'm currently working on [College Portal](https://github.com/bp2881/college-portal)
 * 🧠  I'm learning Cython, Flask
 * 🤝  I'm open to collaborating on backend on any web-development project
 

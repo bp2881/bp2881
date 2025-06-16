@@ -8,7 +8,7 @@ I've been learning to code for 2 years, and my most used and favorite languages 
 
 * 🌍  I'm based in Hyderabad, India
 * ✉️  You can contact me at [pranavbairy2@gmail.com](mailto:pranavbairy2@gmail.com)
-* 🚀  I'm currently working on [College Portal](https://github.com/bp2881/college-portal)
+* 🚀  I'm currently working on [Home-Stream](https://github.com/bp2881/home-stream)
 * 🧠  I'm learning Cython, Flask
 * 🤝  I'm open to collaborating on backend on any web-development project
 
@@ -29,5 +29,6 @@ I've been learning to code for 2 years, and my most used and favorite languages 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/bp2881"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bp2881&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+<!--
 <a href="https://github.com/bp2881" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bp2881&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+-->

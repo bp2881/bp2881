@@ -16,7 +16,7 @@ I've been learning to code for 2 years, and my most used and favorite languages 
 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-  <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="36" height="36" alt="C++"></a>
+  <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="36" height="36" alt="C++"></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -46,6 +46,9 @@ I've been learning to code for 2 years, and my most used and favorite languages 
     </a></p>
 
 ### Badges
+<b>Coding Platforms</b>
+<a href="https://leetcode.com/u/pranavbairy2/">LeetCode</a>
+<a href="https://www.hackerrank.com/profile/23891A0549Pranav">Hackerrank</a>
 
 <b>My GitHub Stats</b>
 

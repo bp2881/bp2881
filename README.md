@@ -56,6 +56,6 @@ I've been learning to code for 2 years, and my most used and favorite languages 
 
 <p align="left">
   <a href="https://github.com/bp2881">
-    <img src="./src/github_stats.png" alt="Top Languages" height="300" width="500"/>
+    <img src="./src/github_stats.png" alt="Top Languages" height="400" width="600"/>
   </a>
 </p>

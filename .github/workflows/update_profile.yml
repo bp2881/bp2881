@@ -1,0 +1,42 @@
+name: Auto update profile
+
+on:
+  schedule:
+    - cron: "0 0 1 * *"
+  workflow_dispatch: 
+
+permissions:
+  contents: write   
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run Python script
+        env:
+          GITHUB_USER: ${{ secrets.GITHUB_USER }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python your_script.py
+
+      - name: Commit updated image
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/github_stats.png
+          git commit -m "Auto-update GitHub stats image [skip ci]" || echo "No changes to commit"
+          git push

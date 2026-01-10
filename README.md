@@ -50,12 +50,13 @@ I've been learning to code for 2 years, and my most used and favorite languages 
 <a href="https://leetcode.com/u/pranavbairy2/">LeetCode</a>
 <a href="https://www.hackerrank.com/profile/23891A0549Pranav">Hackerrank</a>
 
-<b>My GitHub Stats</b>
+<b>My GitHub Stats:</b>
 
-<a href="http://www.github.com/bp2881"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bp2881&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Stats"/></a>
+<a href="http://www.github.com/bp2881"><img src="./src/github_activity.png" alt="Stats"/></a>
 
-<p align="left">
+<b>Top Programming Languages used:</b>
+<br></br>
+
   <a href="https://github.com/bp2881">
-    <img src="./src/github_stats.png" alt="Top Languages" height="300" width="500"/>
+    <img src="./src/github_stats.png" alt="Top Languages"/>
   </a>
-</p>

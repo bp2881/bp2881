@@ -36,24 +36,28 @@ jobs:
         run: |
           python main.py
 
-      - name: Commit updated images (only if changed)
+      - name: Commit updated images
         run: |
           set -e
-
+      
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          # Safety: ensure workflows are untouched
+      
+          # HARD RESET workflow files (prevents GitHub rejection)
           git checkout -- .github/workflows
-
-          # Add ONLY generated assets
+      
+          # Add ONLY generated images
           git add src/github_stats.png src/github_activity.png
-
-          # Exit cleanly if no changes
+      
+          # Exit cleanly if nothing changed
           if git diff --cached --quiet; then
-            echo "No image changes detected"
+            echo "No image changes to commit"
             exit 0
           fi
+      
+          git commit -m "chore: update GitHub stats images [skip ci]"
+          git push origin master
+
 
           git commit -m "chore: update GitHub profile assets [skip ci]"
           git push origin master

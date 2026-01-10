@@ -2,11 +2,11 @@ name: Auto update profile monthly
 
 on:
   schedule:
-    - cron: "0 0 1 * *"   
+    - cron: "0 0 1 * *"   # monthly
   workflow_dispatch:
 
 permissions:
-  contents: write   
+  contents: write   # ONLY what we need
 
 jobs:
   update-assets:

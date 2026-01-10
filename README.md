@@ -52,11 +52,13 @@ I've been learning to code for 2 years, and my most used and favorite languages 
 
 <b>My GitHub Stats:</b>
 
-<a href="http://www.github.com/bp2881"><img src="./src/github_activity.png" alt="Stats"/></a>
+<a href="http://www.github.com/bp2881">
+  <img src="./src/github_activity.png" alt="Stats" width="750" />
+</a>
 
 <b>Top Programming Languages used:</b>
 <br></br>
 
   <a href="https://github.com/bp2881">
-    <img src="./src/github_stats.png" alt="Top Languages"/>
+    <img src="./src/github_stats.png" alt="Top Languages" width="800"/>
   </a>

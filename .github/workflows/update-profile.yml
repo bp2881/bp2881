@@ -57,7 +57,3 @@ jobs:
       
           git commit -m "chore: update GitHub stats images [skip ci]"
           git push origin master
-
-
-          git commit -m "chore: update GitHub profile assets [skip ci]"
-          git push origin master

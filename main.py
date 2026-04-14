@@ -13,7 +13,7 @@ load_dotenv()
 USERNAME = getenv("GITHUB_USER")
 TOKEN = getenv("GITHUB_TOKEN") 
 EXCLUDE = ["JavaScript", "Hack"]  
-#MERGE = {"Jupyter Notebook": "Python"}  
+MERGE = {"CMake": "C++", "Makefile": "C++"}  
 TOP_N = 8
 
 # Language color mapping for popular languages
